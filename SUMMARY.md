@@ -5,6 +5,8 @@
 ## 🚀 Overview
 Today, I designed and developed a premium, single-page personal dashboard for **YULUN**. The project focused on high-end aesthetics, real-time interactivity, and modern web development best practices.
 
+![Personal Page Preview](page.JPG)
+
 ## 🛠️ Tasks Completed
 
 ### 1. Web Development & Design
